@@ -1,0 +1,9 @@
+{
+  "name": "deploy-test-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log('build ok')\"",
+    "start": "node server.js"
+  }
+}
